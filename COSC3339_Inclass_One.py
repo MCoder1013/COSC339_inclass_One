@@ -76,8 +76,8 @@ def matthewsFunction(text_value):
     return valud_imput
 
 
-def process_user_data(): 
-    matthewsFunction(9)
+def process_user_data(user_input): 
+    matthewsFunction(user_input)
 
 
 def main():
